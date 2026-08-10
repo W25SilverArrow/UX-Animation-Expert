@@ -1,6 +1,8 @@
-# UX Animation Expert
+<p align="center">
+  <img src="UX-Animation-Expert-logo.jpeg" alt="UX Animation Expert logo" width="180">
+</p>
 
-<img src="UX-Animation-Expert-logo.jpeg" alt="UX Animation Expert logo" width="180">
+<h1 align="center">UX Animation Expert</h1>
 
 # Role
 
