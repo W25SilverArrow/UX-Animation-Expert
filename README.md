@@ -1,5 +1,7 @@
 # UX Animation Expert
 
+![UX Animation Expert logo](UX-Animation-Expert-logo.jpeg)
+
 A portable, AI-agnostic expert prompt for designing, reviewing, and implementing purposeful animation in digital interfaces.
 
 ## What it does
