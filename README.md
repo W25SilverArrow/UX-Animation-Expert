@@ -10,7 +10,7 @@ A portable, AI-agnostic expert prompt for designing, reviewing, and implementing
 
 ```text
 Install and use the UX Animation Expert skill from this repository:
-https://github.com/louisvsant/UX-Animation-Expert.git
+[https://github.com/louisvsant/UX-Animation-Expert.git](https://github.com/W25SilverArrow/UX-Animation-Expert.git)
 
 Instructions:
 1. Access or clone the repository in the environment where you keep reusable AI instructions.
